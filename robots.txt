@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://radantoc.github.io/sitemap.html.gz
+Sitemap: https://radantoc.github.io/app/sitemap.html.gz
+Sitemap: https://radantoc.github.io/assets/sitemap.html.gz
+Sitemap: https://radantoc.github.io/css/sitemap.html.gz
+Sitemap: https://radantoc.github.io/includes/sitemap.html.gz
+Sitemap: https://radantoc.github.io/item/sitemap.html.gz
+Sitemap: https://radantoc.github.io/src/sitemap.html.gz
